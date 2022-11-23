@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "287983444504",
+    "project_id": "loginedmo",
+    "storage_bucket": "loginedmo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287983444504:android:73901fed9f93544e14196d",
+        "android_client_info": {
+          "package_name": "com.example.demologin2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287983444504-qb60v713ene0btq1c7i89d6hu4vpld4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTN8K9_Quit1C1nk4pYitPyZ45Ce2Oh5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287983444504-qb60v713ene0btq1c7i89d6hu4vpld4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287983444504:android:ca76f858082e0b4b14196d",
+        "android_client_info": {
+          "package_name": "com.example.demologin3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287983444504-qb60v713ene0btq1c7i89d6hu4vpld4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTN8K9_Quit1C1nk4pYitPyZ45Ce2Oh5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287983444504-qb60v713ene0btq1c7i89d6hu4vpld4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287983444504:android:54085da0521f7b7014196d",
+        "android_client_info": {
+          "package_name": "com.example.loginedmo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287983444504-u38j7chql6m7a5nfm18ovvpag5krvpl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginedmo",
+            "certificate_hash": "c3f4f9fa57af7e3ba64419c95b9a803f3df61dee"
+          }
+        },
+        {
+          "client_id": "287983444504-qb60v713ene0btq1c7i89d6hu4vpld4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTN8K9_Quit1C1nk4pYitPyZ45Ce2Oh5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287983444504-qb60v713ene0btq1c7i89d6hu4vpld4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
